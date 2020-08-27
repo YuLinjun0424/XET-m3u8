@@ -58,7 +58,7 @@ def m3u8(url):
 
 
 if __name__ == '__main__':
-    url = "http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/7f9a70d75285890806792676073/drm/v.f100230.m3u8"
+    url = "http://...........m3u8"
     pd = m3u8(url)
     if pd:
         print('视频下载完成！')
